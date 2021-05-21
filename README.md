@@ -6,7 +6,7 @@
 [![tests](https://github.com/zeserrado-marques/smart-microscopy-minimal/workflows/tests/badge.svg)](https://github.com/zeserrado-marques/smart-microscopy-minimal/actions)
 [![codecov](https://codecov.io/gh/zeserrado-marques/smart-microscopy-minimal/branch/master/graph/badge.svg)](https://codecov.io/gh/zeserrado-marques/smart-microscopy-minimal)
 
-test plugin
+test plugin as part of the Smart Microscopy course - https://nmisweden.se/arkiv/smart-microscopy-image-analysis.html
 
 ----------------------------------
 
